@@ -117,7 +117,7 @@ int main() {
 
 ### Question 2
 
-**What will be the output of the code snippet? ? [See Answer](#answer)**
+**What will be the output of the code snippet? ? [See Answer](#answer2)**
 
 ```bash
 #include <stdio.h>
@@ -134,7 +134,7 @@ int main() {
 
 ### Question 3
 
-**What will be the output of the code snippet? ? [See Answer](#answer)**
+**What will be the output of the code snippet? ? [See Answer](#answer3)**
 
 ```bash
 #include <stdio.h>
@@ -153,7 +153,7 @@ int main() {
 
 ### Question 4
 
-**How do you print the number 108 using arithmetic operations on the numbers 9 and 12 in C ? [See Answer](#answer)**
+**How do you print the number 108 using arithmetic operations on the numbers 9 and 12 in C ? [See Answer](#answer4)**
 
 - print(9/12);
 - print(9\*12);
@@ -162,7 +162,7 @@ int main() {
 
 ### Question 5
 
-**How can we print the difference between 9 and 3 in C ? [See Answer](#answer)**
+**How can we print the difference between 9 and 3 in C ? [See Answer](#answer5)**
 
 - print(9-3);
 - cout<<9-3;
@@ -171,7 +171,7 @@ int main() {
 
 ### Question 6
 
-**What will be the output of the code snippet? [See Answer](#answer)**
+**What will be the output of the code snippet? [See Answer](#answer6)**
 
 ```bash
 #include <stdio.h>
@@ -189,7 +189,7 @@ int main() {
 
 ### Question 7
 
-**How to print the digit '9' as a character in C? [See Answer](#answer)**
+**How to print the digit '9' as a character in C? [See Answer](#answer7)**
 
 - printf("%c", '9');
 - printf("%a", '9');
@@ -198,7 +198,7 @@ int main() {
 
 ### Question 8
 
-**What will be the output of this code snippet? [See Answer](#answer)**
+**What will be the output of this code snippet? [See Answer](#answer8)**
 
 ```bash
 #include <stdio.h>
@@ -215,7 +215,7 @@ int main() {
 
 ### Question 9
 
-**What would be the output of the following code: [See Answer](#answer)**
+**What would be the output of the following code: [See Answer](#answer9)**
 
 ```bash
 #include <stdio.h>
@@ -236,7 +236,7 @@ int main() {
 
 ### Question 10
 
-**What would be the output of the following code: [See Answer](#answer)**
+**What would be the output of the following code: [See Answer](#answer10)**
 
 ```bash
 #include <stdio.h>
@@ -255,7 +255,7 @@ int main() {
 
 ### Question 11
 
-**What would be the output of the following code: [See Answer](#answer)**
+**What would be the output of the following code: [See Answer](#answer11)**
 
 ```bash
 #include <stdio.h>
@@ -273,15 +273,15 @@ int main() {
 
 ### Question 12
 
-**Write a C program to find the sum of two numbers, 4 and 8. [See Answer](#answer)**
+**Write a C program to find the sum of two numbers, 4 and 8. [See Answer](#answer12)**
 
 ### Question 13
 
-**Write a C program to print $ [See Answer](#answer)**
+**Write a C program to print $ [See Answer](#answer13)**
 
 ### Question 14
 
-**What will the following C code print? [See Answer](#answer)**
+**What will the following C code print? [See Answer](#answer14)**
 
 ```bash
 #include <stdio.h>
@@ -301,7 +301,7 @@ int main() {
 
 ### Question 15
 
-**Which of these statements prints the displayed text in the problem statement? [See Answer](#answer)**
+**Which of these statements prints the displayed text in the problem statement? [See Answer](#answer15)**
 
 <pre>
 Hello
@@ -315,7 +315,7 @@ World!
 
 ### Question 16
 
-**What is the output of the given code? [See Answer](#answer)**
+**What is the output of the given code? [See Answer](#answer16)**
 
 ```bash
 #include <stdio.h>
@@ -333,7 +333,7 @@ int main() {
 
 ### Question 17
 
-**What will be printed by the given code? [See Answer](#answer)**
+**What will be printed by the given code? [See Answer](#answer17)**
 
 ```bash
 #include <stdio.h>
@@ -351,7 +351,7 @@ int main() {
 
 ### Question 18
 
-**What will be the output of the given code? [See Answer](#answer)**
+**What will be the output of the given code? [See Answer](#answer18)**
 
 ```bash
 #include <stdio.h>
@@ -371,7 +371,7 @@ int main() {
 
 ### Question 19
 
-**What will be the output of this C code? [See Answer](#answer)**
+**What will be the output of this C code? [See Answer](#answer19)**
 
 ```bash
 #include <stdio.h>
@@ -392,7 +392,7 @@ int main() {
 
 ### Question 20
 
-**What will be printed by the given C code? [See Answer](#answer)**
+**What will be printed by the given C code? [See Answer](#answer20)**
 
 ```bash
 #include <stdio.h>
@@ -410,7 +410,7 @@ int main() {
 
 ### Question 21
 
-**What will be the output of the given code snippet? [See Answer](#answer)**
+**What will be the output of the given code snippet? [See Answer](#answer21)**
 
 ```bash
 #include <stdio.h>
@@ -432,7 +432,7 @@ int main() {
 
 ### Question 22
 
-**Write a C program to print the following output using a single printf statement: [See Answer](#answer)**
+**Write a C program to print the following output using a single printf statement: [See Answer](#answer22)**
 
 ```bash
 The result of 5 + 3 is:
@@ -446,7 +446,7 @@ The result of 5 + 3 is:
 
 ### Question 23
 
-**Write a C program to print the following pattern using a single printf statement: [See Answer](#answer)**
+**Write a C program to print the following pattern using a single printf statement: [See Answer](#answer23)**
 
 ```bash
       *
@@ -457,7 +457,7 @@ The result of 5 + 3 is:
 
 ### Question 24
 
-**What would be the output of the following code: [See Answer](#answer)**
+**What would be the output of the following code: [See Answer](#answer24)**
 
 ```bash
 #include <stdio.h>
@@ -478,7 +478,7 @@ int main() {
 
 ### Question 25
 
-**What would be the output of the following code: [See Answer](#answer)**
+**What would be the output of the following code: [See Answer](#answer25)**
 
 ```bash
 #include <stdio.h>
@@ -501,7 +501,7 @@ int main() {
 
 ### Question 26
 
-**What would be the output of the following code: [See Answer](#answer)**
+**What would be the output of the following code: [See Answer](#answer26)**
 
 ```bash
 #include <stdio.h>
@@ -540,7 +540,7 @@ int main() {
 
 ### Question 27
 
-**What does this C code print? [See Answer](#answer)**
+**What does this C code print? [See Answer](#answer27)**
 
 ```bash
 #include <stdio.h>
@@ -561,7 +561,7 @@ int main() {
 
 ### Question 28
 
-**What is the output of the given C code? [See Answer](#answer)**
+**What is the output of the given C code? [See Answer](#answer28)**
 
 ```bash
 #include <stdio.h>
@@ -580,7 +580,7 @@ int main() {
 
 ### Question 29
 
-**What does this C code print? [See Answer](#answer)**
+**What does this C code print? [See Answer](#answer29)**
 
 ```bash
 #include <stdio.h>
@@ -601,7 +601,7 @@ int main() {
 ### Question 30
 
 **What is the output of the following C code?
-(Consider the modern 32-bit computer architecture [See Answer](#answer)**
+(Consider the modern 32-bit computer architecture [See Answer](#answer30)**
 
 ```bash
 #include <stdio.h>
@@ -619,7 +619,7 @@ int main() {
 
 ### Question 31
 
-**What does the given C code print? [See Answer](#answer)**
+**What does the given C code print? [See Answer](#answer31)**
 
 ```bash
 #include <stdio.h>
@@ -642,7 +642,7 @@ int main() {
 
 ### Question 32
 
-**What is the output of the following C code? [See Answer](#answer)**
+**What is the output of the following C code? [See Answer](#answer32)**
 
 ```bash
 #include <stdio.h>
@@ -662,7 +662,7 @@ int main() {
 
 ### Question 33
 
-**What does this C code print? [See Answer](#answer)**
+**What does this C code print? [See Answer](#answer33)**
 
 ```bash
 #include <stdio.h>
@@ -682,7 +682,7 @@ int main() {
 
 ### Question 34
 
-**What is the output of the following C code? [See Answer](#answer)**
+**What is the output of the following C code? [See Answer](#answer34)**
 
 ```bash
 #include <stdio.h>
@@ -701,7 +701,7 @@ int main() {
 
 ### Question 35
 
-**Which of the following is NOT a valid data type in C? [See Answer](#answer)**
+**Which of the following is NOT a valid data type in C? [See Answer](#answer35)**
 
 - float
 - char
@@ -710,7 +710,7 @@ int main() {
 
 ### Question 36
 
-**What will be the output of the following code snippet? [See Answer](#answer)**
+**What will be the output of the following code snippet? [See Answer](#answer36)**
 ```bash
 #include <stdio.h>
 
@@ -727,34 +727,34 @@ int main() {
 
 ### Question 37
 
-**Write a C program that swaps the values of two integer variables, a =5 and b = 10, and prints their new values using a single printf statement with a space between them [See Answer](#answer)**
+**Write a C program that swaps the values of two integer variables, a =5 and b = 10, and prints their new values using a single printf statement with a space between them [See Answer](#answer37)**
 
 
 ### Question 38
 
 **Write a C program that converts a temperature in Celsius to Fahrenheit. The Celsius temperature should be stored in a float variable celsius, and the Fahrenheit equivalent should be printed using a single printf statement. The relation between the two scales is given as <br>
 fahrenheit = (celsius * 9/5) + 32; <br>
-Take the celsius temperature to be 20.5. [See Answer](#answer)**
+Take the celsius temperature to be 20.5. [See Answer](#answer38)**
 
 ### Question 39
 
 **Now do the reverse, write a C program that converts a temperature in Fahrenheit to Celsius. The Fahrenheit temperature should be stored in a float variable fahrenheit, and the Celsius equivalent should be printed using a single printf statement.<br>
 We can use the same relation between the two scales:<br>
 fahrenheit = (celsius * 9/5) + 32;
-Take the Fahrenheit temperature to be 98.3. [See Answer](#answer)**
+Take the Fahrenheit temperature to be 98.3. [See Answer](#answer39)**
 
 
 ### Question 40
 
 **Given the height (1.82 meter) and weight (72 kg) of the Chef, calculate his BMI (Body Mass Index).<br>
-Formula to calculate the BMI: [See Answer](#answer)**
+Formula to calculate the BMI: [See Answer](#answer40)**
 
 ![This is formula for BMI](https://cdn.codechef.com/images/learning/bmi_formula.png)
 
 
 ### Question 41
 
-**What would be the output of the following code: [See Answer](#answer)**
+**What would be the output of the following code: [See Answer](#answer41)**
 ```bash
 #include <stdio.h>
 
@@ -774,7 +774,7 @@ random number
 
 ### Question 42
 
-**What will the following code ? [See Answer](#answer)**
+**What will the following code ? [See Answer](#answer42)**
 ```bash
 #include <stdio.h>
 int main() {
@@ -793,7 +793,7 @@ int main() {
 
 ### Question 43
 
-**What would be the output of the given code if the user enters the temperature 25? [See Answer](#answer)**
+**What would be the output of the given code if the user enters the temperature 25? [See Answer](#answer43)**
 ```bash
 #include <stdio.h>
 
@@ -823,7 +823,7 @@ int main() {
 
 ### Question 44
 
-**What is the purpose of the if/else construct in the given code ? [See Answer](#answer)**
+**What is the purpose of the if/else construct in the given code ? [See Answer](#answer44)**
 ```bash
 #include <stdio.h>
 
@@ -849,7 +849,7 @@ int main() {
 
 ### Question 45
 
-**What would be the output of the given code if the user enters the signal as 'Y'? [See Answer](#answer)**
+**What would be the output of the given code if the user enters the signal as 'Y'? [See Answer](#answer45)**
 ```bash
 #include <stdio.h>
 
@@ -879,7 +879,7 @@ int main() {
 
 ### Question 46
 
-**What would be the output of the given code if the user enters the day number 3? [See Answer](#answer)**
+**What would be the output of the given code if the user enters the day number 3? [See Answer](#answer46)**
 ```bash
 #include <stdio.h>
 
@@ -915,7 +915,7 @@ int main() {
 
 ### Question 47
 
-**What is the purpose of the if/else if/else construct in the given code ? [See Answer](#answer)**
+**What is the purpose of the if/else if/else construct in the given code ? [See Answer](#answer47)**
 ```bash
 #include <stdio.h>
 
@@ -943,7 +943,7 @@ int main() {
 
 ### Question 48
 
-**Write a C program that takes three integers as input and determines the largest among them. Print the largest number. [See Answer](#answer)**
+**Write a C program that takes three integers as input and determines the largest among them. Print the largest number. [See Answer](#answer48)**
 
 
 ### Question 49
@@ -1069,7 +1069,7 @@ int main() {
 
 ### Question 55
 
-**What will be the output of the given code ? [See Answer](#answer)**
+**What will be the output of the given code ? [See Answer](#answer55)**
 ```bash
 #include <stdio.h>
 
@@ -1090,7 +1090,7 @@ int main() {
 
 ### Question 56
 
-**What will be printed by the given code ? [See Answer](#answer)**
+**What will be printed by the given code ? [See Answer](#answer56)**
 ```bash
 #include <stdio.h>
 
@@ -1170,64 +1170,7 @@ int main() {
 
 **Given a positive integer <br>
 N<br>
-N, find sum of its digits. [See Answer](#answer)** <br>Ex-1234 output = 10
-
-
-### Question 10
-
-** [See Answer](#answer)**
-
--
--
--
--
-
-### Question 10
-
-** [See Answer](#answer)**
-
--
--
--
--
-
-### Question 10
-
-** [See Answer](#answer)**
-
--
--
--
--
-
-
-### Question 10
-
-** [See Answer](#answer)**
-
--
--
--
--
-
-
-### Question 10
-
-** [See Answer](#answer)**
-
--
--
--
--
-
-### Question 10
-
-** [See Answer](#answer)**
-
--
--
--
--
+N, find sum of its digits. [See Answer](#answer61)** <br>Ex-1234 output = 10
 
 ### Answer1:
 
@@ -1987,827 +1930,9 @@ int main() {
 	printf("%d",sum);
 }
 ```
+ 
+ 
 
+ 
 
-### Answer62:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer63:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer64:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer65:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer66:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer67:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer68:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer69:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer70:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer71:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer72:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer73:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer74:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer75:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer76:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer77:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer78:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer79:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer80:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer81:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer83:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-
-### Answer83:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer84:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer85:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer86:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-
-### Answer87:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer88:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer89:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer90:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer91:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-
-### Answer92:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-
-### Answer93:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer94:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer95:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer96:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer97:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-
-### Answer98:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer99:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer100:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
-
-
-### Answer53:
-
-**Correct Answer**: ``;
-
-```bash
-Explanation:
-
-```
+ 
